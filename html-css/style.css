@@ -1,2 +1,16 @@
-h1{color: red;}
-h2{font-size: 40px;}
+body{
+    background-color: #dedede;
+}
+
+h1{
+    color: blue;
+    font-size: 40px;
+}
+
+h2{
+    background-color: brown;
+}
+
+.romario{
+    color: green;
+}
